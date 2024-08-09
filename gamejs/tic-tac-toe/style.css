@@ -1,0 +1,53 @@
+h1{
+  text-align: center;
+  font-size: 40px;
+    
+}
+.container {
+    display: grid;
+    grid-template-rows: auto auto auto; /* 3 rows */
+    justify-content: center;
+    gap: 5px; /* Gap between grid items */
+}
+
+.row {
+    display: grid;
+    grid-template-columns: auto auto auto; /* 3 columns */
+    justify-content: center;
+    gap: 5px; /* Gap between buttons */
+}
+
+.btn {
+    width: 80px;
+    height: 80px;
+    font-size: 24px; /* Adjust font size */
+}
+
+.score-board{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    gap: 100px;
+}
+.score{
+    gap: 20px;
+}
+#user-score, 
+#comp-score{
+    font-size: 3rem;
+    gap: 20px;
+   
+}
+.msg-container{
+    margin-top: 2rem;
+    text-align: center;
+}
+#msg{
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+    display: inline;
+    padding: 1rem;
+    border-radius:1rem; 
+}

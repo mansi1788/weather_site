@@ -1,0 +1,15 @@
+.aadhar img{
+    width: 70px;
+ float: right;
+}
+.amblem img{
+    width: 100px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-style: bold;
+}
+form{
+    border: 2px solid black;
+}

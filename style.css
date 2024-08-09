@@ -1,0 +1,25 @@
+/* *{
+    padding: 0;
+margin: 0;
+}
+
+nav{
+background-color: gray;
+padding-top:10px; 
+padding-left: 10px;
+font-size: 25px;
+}
+ul li{
+    display: inline; 
+    padding: 12px;
+
+}
+form{
+   width: 350px;
+   height: 200px;
+   padding-top:10px; 
+   padding-left: 10px;
+   border-radius: 10px;
+    background-color: aqua;
+    border: 2px solid black;
+} */
